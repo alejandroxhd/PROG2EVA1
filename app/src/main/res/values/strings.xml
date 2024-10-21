@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PROG2EVA1</string>
+    <string name="pastel"><b>Pastel de Choclo</b></string>
+    <string name="cazuela"><b>Cazuela de Pollo</b></string>
+    <string name="comida"><b>Comida</b></string>
+    <string name="propina"><b>Propina</b></string>
+    <string name="total"><b>TOTAL</b></string>
+</resources>
